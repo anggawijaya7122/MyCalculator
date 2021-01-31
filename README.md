@@ -1,3 +1,5 @@
 # MyCalculator
-simple calculator
-Hello, i'm trying to build a simple calculator app with java language fo android application
+Hello, i'm new to Android Development.
+So i'm trying to build a simple calculator app with Java language for android using Android Studio
+Thanks for your visiting.
+Have a good day
